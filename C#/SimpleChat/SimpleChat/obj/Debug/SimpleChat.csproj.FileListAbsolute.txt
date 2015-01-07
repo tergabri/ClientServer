@@ -1,0 +1,1 @@
+C:\Devs\C#\Projects\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe.config
